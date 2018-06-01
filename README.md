@@ -22,31 +22,20 @@ The goal was to made an interactive arcade game.
 
 ### Used technologies
 - HTML5
+- HTML5 canvas
 - CSS3
 - core Javascript
-- Font Awesome icons
-- Google Fonts
 
-### Game behavior
-- The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
-- When a user wins the game, a modal appears to congratulate the player and ask if they want to play again. It also tell the user how much time it took to win the game, and what the star rating was.
-- The restart button allows the player to reset the game board, the timer, and the star rating.
-- The game displays a star rating (from 1 to 3) that reflects the player's performance.
-- When the player starts a game, a displayed timer also start.
-- Game displays the current number of moves a user has made.
+## Rules/Game behavior
 
-## Rules
-
-- The goal of the game is to find 8 pairing cards.
-- You can click a card and it reveals its symbol, then you can click another card and it reveals its symbol too.
-- If the two cards match, you found a pair and the cards stay revealed, if not the cards turn back.
-- The game will end when all the 8 pairs is found.
-- The game counts your moves. The revealing two cards count as one move.
-- If you use an amount of moves you lose one star and later another one.
-- You get more stars if you accomplish the game with less moves.
-- You can see your score, moves and your time in the top of the game. 
-- You can restart the game at any time with the restart button on the top right corner.
-- When the game end, you can see your score and time.
+- The goal of the player is to reach the water, without colliding into any one of the enemies.
+- Once the player reaches the water gets 1 point.
+- The player can move left, right, up and down.
+- The enemies move in varying speeds on the paved block portion of the scene.
+- The player has 5 life.
+- Once a the player collides with an enemy, the player loses one life and moves back to the start square.
+- When the player loses her/his 5th life, the game is over and an end game modal shows her/his score.
+- At the end of the game you can click for a new game.
 
 ## Contributing
 
