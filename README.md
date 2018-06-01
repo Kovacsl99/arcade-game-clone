@@ -4,7 +4,7 @@ This game is the 4th project of the Google Developer Scholarship Front End Devel
 ## Table of Contents
 
 * [Development](#development)
-* [Rules/Game bahavior](#rules/game behavior)
+* [Rules](#rules)
 * [Contributing](#contributing)
 
 ## Development
@@ -26,7 +26,7 @@ The goal was to made an interactive arcade game.
 - CSS3
 - core Javascript
 
-## Rules/Game behavior
+## Rules
 
 - The goal of the player is to reach the water, without colliding into any one of the enemies.
 - Once the player reaches the water gets 1 point.
