@@ -4,7 +4,7 @@ This game is the 4th project of the Google Developer Scholarship Front End Devel
 ## Table of Contents
 
 * [Development](#development)
-* [Rules](#Rules/Game behavior)
+* [Rules/Game bahavior](#rules/game behavior)
 * [Contributing](#contributing)
 
 ## Development
