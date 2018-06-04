@@ -5,7 +5,7 @@ This game is the 4th project of the Google Developer Scholarship Front End Devel
 
 * [Development](#development)
 * [How to play](#how-to-play)
-* [Rules](#rules)
+* [Game rules](#game-rules)
 * [Contributing](#contributing)
 
 ## Development
@@ -32,7 +32,7 @@ The goal was to made an interactive arcade game.
   or you can download this project and open the index.html in your browser
 - After you click the start button you can control the character with the arrow keys
 
-## Rules
+## **Game rules**
 - The goal of the player is to reach the water, without colliding into any one of the enemies.
 - Once the player reaches the water gets 1 point.
 - The player can move left, right, up and down.
