@@ -29,8 +29,8 @@ The goal was to made an interactive arcade game.
 
 ## Play
 - You can play with this game the following link: https://kovacsl99.github.io/arcade-game-clone/
-  or you can download this project and open the index.html in your browswer
-- You can control the character with the arrow keys
+  or you can download this project and open the index.html in your browser
+- After you click the start button you can control the character with the arrow keys
 
 ## Rules
 - The goal of the player is to reach the water, without colliding into any one of the enemies.
