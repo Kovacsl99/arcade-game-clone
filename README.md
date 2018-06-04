@@ -4,6 +4,7 @@ This game is the 4th project of the Google Developer Scholarship Front End Devel
 ## Table of Contents
 
 * [Development](#development)
+* [Play](#play)
 * [Rules](#rules)
 * [Contributing](#contributing)
 
@@ -26,8 +27,12 @@ The goal was to made an interactive arcade game.
 - CSS3
 - core Javascript
 
-## Rules
+## Play
+- You can play with this game the following link: https://kovacsl99.github.io/arcade-game-clone/
+  or you can download this project and open the index.html in your browswer
+- You can control the character with the arrow keys
 
+## Rules
 - The goal of the player is to reach the water, without colliding into any one of the enemies.
 - Once the player reaches the water gets 1 point.
 - The player can move left, right, up and down.
