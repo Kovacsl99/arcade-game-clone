@@ -1,3 +1,5 @@
+"use strict";
+
 const startBtn = document.querySelector('#start');
 const endBtn = document.querySelector('#end');
 
